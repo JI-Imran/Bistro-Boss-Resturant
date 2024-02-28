@@ -1,0 +1,6 @@
+.featured-item {
+  background-image: url("../../../../assets/home/featured.jpg");
+  /* background:linear-gradient(0deg, rgba(0, 0, 0, 0.568), rgba(0, 0, 0, 0.596)), url('../../../../assets/home/featured.jpg'); */
+  /* background-size:cover; */
+  /* background: fixed; */
+}
